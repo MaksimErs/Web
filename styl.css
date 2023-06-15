@@ -1,0 +1,21 @@
+
+
+p {
+    color:blue;
+    margin: 0;
+    font-size: 65px;
+}
+
+
+.active {
+    color: brown;
+}
+button {
+    width: 250px;
+    height: 50px;
+    font-size: 16px;
+    color: aliceblue;
+    background-color: darkolivegreen;
+    margin-top: 20px;
+}
+
